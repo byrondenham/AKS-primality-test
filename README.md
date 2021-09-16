@@ -1,6 +1,6 @@
 # AKS Primality Test
 
-A program that tests to see if a given number is prime, using the Agrawal-Kayal-Saxena primality test algorithm.
+A program that tests to see if a given number is prime, using the Agrawal-Kayal-Saxena primality test algorithm in TypeScript using Deno.
 
 ### The algorithm
 
